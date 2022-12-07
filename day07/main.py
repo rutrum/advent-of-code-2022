@@ -3,7 +3,7 @@ sys.path.insert(1, '.')
 import util
 
 def main():
-    text = open("day%%day%%/input.txt").read().strip()
+    text = open("day07/input.txt").read().strip()
 
 if __name__ == "__main__":
     main()
